@@ -13,10 +13,11 @@ def main():
     op.mostrarResultado()
     op.modulo()
     op.mostrarResultado()
+    op.raiz()
+    op.mostrarResultado()   
     op.potencia()
     op.mostrarResultado()
-    
-    
+        
 if __name__ == "__main__":
     main()
     
