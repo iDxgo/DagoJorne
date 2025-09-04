@@ -1,2 +1,3 @@
 # DagoJorne
-Git
+Diego Garcia: Operador Potencia
+Diego Horner: Operador Raiz
