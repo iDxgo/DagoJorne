@@ -37,6 +37,10 @@ class Operaciones:
     
     def raiz(self):
         self.resultado = "La raiz cuadrada de " + str(self.num1) + " es igula a " + str(self.num1 ** 0.5) + " y la raiz cuadrada de " + str(self.num2) + " es igula a " + str(self.num2 ** 0.5)
+        
+    def potencia(self):
+        self.resultado = "La potencia de " + str(self.num1) + " ^ " + str(self.num2) + " es igula a " + str(self.num1 ** self.num2)
+    
     def mostrarResultado(self):
         print(self.resultado)
         
